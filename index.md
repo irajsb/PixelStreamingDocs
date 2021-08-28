@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Pixel Steam
 
 Pixel Steam is a pixel streaming soltuion for Unreal Engine.  
 We provide autoscaling and hosting features with RTX enabled server with competetive price and quality !
