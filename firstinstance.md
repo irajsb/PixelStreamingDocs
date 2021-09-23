@@ -2,9 +2,11 @@ First step to make a pixel streaming solution is to make a base image that we ca
 
 ## Start an instance 
 - Login to your aws account.
+
 - Open EC2 Menu.
-- Make sure you have desired region selected.
-- Click launch instances.
+  
+- Make sure you have desired region selected.  
+- Click launch instances.  
 - Select your desired base image (there are images with drivers pre installed make sure to watch software cost before launching , official NVIDIA and AMD images usually have 0.0$ software cost I'm using NVIDIA Gaming PC - Windows Server 2019 for this example ). 
 - Choose instance type (I'm chosing g4dn for this example).
 - We can skip `3. Configure Instance` step but you can change it as desired 
