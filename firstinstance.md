@@ -19,7 +19,8 @@
 
 - You can choose to add tags now or do it later (I recommend using key `Name` and value `ProjectBaseImage` for clarification .
 
-- You need to open some port in pixel streaming security group this is the config that we currently have.
+- You need to open some ports in pixel streaming security group. this is the config that we currently have:  
+![](https://docs.pixelsteam.net/Images/Ports.jpg)
 
 - Next you need to review and provide a key pair . key pairs are needed for logging in instances if you don't have one open a new tab and create one (key pairs are given to you only once so be sure to store it somewhere or it will be lost forever).
 
