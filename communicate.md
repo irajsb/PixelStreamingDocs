@@ -1,12 +1,14 @@
 ## Communicate From UE4 to WebPage
-- Sending from UE:  
+- Sending from UE:   
+
 ![](https://docs.pixelsteam.net/Images/uetopage.jpg)
-- Receiving in page:
+- Receiving in page:  
+
 ![](https://docs.pixelsteam.net/Images/pagerec.jpg)
 
 ## Communicate From Web Page to UE4 
 
-- Sending from page 
+- Sending from page  
 
 Example : inside instanceinterface.js
 
@@ -23,6 +25,7 @@ Example : inside instanceinterface.js
 ```
 - Receiving in UE4
  
- If you have pixelmanager installed you can bind to this event to recive messages from web page. 
+ If you have pixelmanager installed you can bind to this event to recive messages from web page.  
+ 
  ![](https://docs.pixelsteam.net/Images/pixelinput.jpg)
  
