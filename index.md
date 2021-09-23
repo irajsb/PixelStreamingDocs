@@ -5,7 +5,7 @@ We provide autoscaling and hosting features with RTX enabled servers, competitiv
 For more info you can contact us at nazzareno@myd3sign.com
 
 ### Getting Started
-
--[ Start a base instance !](https://docs.pixelsteam.net/firstinstance)
+- [Overview](https://docs.pixelsteam.net/overview)  
+- [ Start a base instance](https://docs.pixelsteam.net/firstinstance)
 
 
