@@ -10,7 +10,7 @@
 
 Example : inside instanceinterface.js
 
-`
+```
     var Command={
     "SomeField": "SomeEvent",
     "X":width,
@@ -20,4 +20,9 @@ Example : inside instanceinterface.js
     var Frame=   document.getElementById("PixelFrame");
     Frame.contentWindow.postMessage(JSON.stringify(Command), PageURL); 
     
-`
+```
+- Receiving in UE4
+ 
+ If you have pixelmanager installed you can bind to this event to recive messages from web page. 
+ ![](https://docs.pixelsteam.net/Images/pixelinput.jpg)
+ 
