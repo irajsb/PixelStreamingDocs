@@ -37,7 +37,7 @@
 
 -Install prerequisites (usually located in extra folder inside project folder) you may see that dotnet 3.5 install has failed you may ignore this since its optional for most projects.
 
-- [Optional] You can uncomment lines in startup.ps1 script that runs multiple instances of pixel streaming if you need (and your project is efficient enough to do so) , instances can be accessed in this order `https://your-instance-ip-address.server.pixelsteam.net:443 https://your-instance-ip-address.server.pixelsteam.net:444 https://your-instance-ip-address.server.pixelsteam.net:446 https://your-instance-ip-address.server.pixelsteam.net:447 ` note that 445 port is used by another service by defaul so we skip that .
+- [Optional] You can uncomment lines in startup.ps1 script that runs multiple instances of pixel streaming if you need (and your project is efficient enough to do so) , instances can be accessed in this order `https://your-instance-ip-address.server.pixelsteam.net:443 https://your-instance-ip-address.server.pixelsteam.net:444 https://your-instance-ip-address.server.pixelsteam.net:446 https://your-instance-ip-address.server.pixelsteam.net:447 ` note that 445 port is used by another service by default so we skip that .
 
 - Run startup script verify that app runs as expected 
 
@@ -47,7 +47,7 @@
 
 - Right click your instance in aws console and click create image. 
 
-- Default options are good enough so we finalize creating image.
+-  options are good enough so we finalize creating image.
 
 - Click on AMI option located in the menu on the left and wait until your image is created.
 
