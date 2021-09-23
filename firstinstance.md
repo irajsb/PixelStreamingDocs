@@ -27,4 +27,31 @@
 ## Setup Instance
 - Login to instance using your keypair (may be a little tricky for NVIDIA image I've to try many times to login). Be sure to store your password since it will be password for your images too !
 
-- 
+- Paste folder proivded to you to C:\  .  
+
+- Open `C:\PixelStreamer\Downloads` .
+
+- Download project folder as zip and place it in this folder . Make sure there is only one zip file in this directory . Make sure that root of your zip file is WindowsNoEditor(or Windows Folder in recent UE versions) and there is an executable file inside that folder . (you can also use Downloader script to download your file from a direct link).
+
+- Run `UE4-Pixel-Streamer-Bootstrap` as admin it will install node,extract project, add firewall rules ,and add Startup script to the system startup .
+
+-Install prerequisites (usually located in extra folder inside project folder) you may see that dotnet 3.5 install has failed you may ignore this since its optional for most projects.
+
+- [Optional] You can uncomment lines in startup.ps1 script that runs multiple instances of pixel streaming if you need (and your project is efficient enough to do so) , instances can be accessed in this order `https://your-instance-ip-address.server.pixelsteam.net:443 https://your-instance-ip-address.server.pixelsteam.net:444 https://your-instance-ip-address.server.pixelsteam.net:446 https://your-instance-ip-address.server.pixelsteam.net:447 ` note that 445 port is used by another service by defaul so we skip that .
+
+- Run startup script verify that app runs as expected 
+
+- Go to aws console reboot instance after 20-30 secs you should access your instance without logging in  (using url example that we provided in the step before ) if everything is done correctly !
+
+## Make an Image template 
+
+- Right click your instance in aws console and click create image. 
+
+- Default options are good enough so we finalize creating image.
+
+- Click on AMI option located in the menu on the left and wait until your image is created
+
+- Terminate your base instance since we will not be needing it anymore.
+
+
+ 
