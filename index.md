@@ -6,6 +6,7 @@ For more info you can contact us at nazzareno@myd3sign.com
 
 ### Getting Started
 - [Overview](https://docs.pixelsteam.net/overview)  
-- [ Start a base instance](https://docs.pixelsteam.net/firstinstance)
+- [ Start a base instance](https://docs.pixelsteam.net/firstinstance)  
+- [Instance Manager](https://docs.pixelsteam.net/instancemanager)
 
 
