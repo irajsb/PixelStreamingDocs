@@ -41,7 +41,7 @@
 
 - Run startup script verify that app runs as expected 
 
-- Go to aws console reboot instance after 20-30 secs you should access your instance without logging in  (using url example that we provided in the step before ) if everything is done correctly !
+- Go to aws console reboot instance after 20-30 secs you should access your instance without logging in  (using url example that we provided in the step before ) if everything is done correctly!
 
 ## Make an Image template 
 
@@ -49,7 +49,7 @@
 
 - Default options are good enough so we finalize creating image.
 
-- Click on AMI option located in the menu on the left and wait until your image is created
+- Click on AMI option located in the menu on the left and wait until your image is created.
 
 - Terminate your base instance since we will not be needing it anymore.
 
