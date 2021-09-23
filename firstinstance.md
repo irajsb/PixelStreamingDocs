@@ -24,3 +24,7 @@
 
 - Next you need to review and provide a key pair . key pairs are needed for logging in instances if you don't have one open a new tab and create one (key pairs are given to you only once so be sure to store it somewhere or it will be lost forever).
 
+## Setup Instance
+- Login to instance using your keypair (may be a little tricky for NVIDIA image I've to try many times to login). Be sure to store your password since it will be password for your images too !
+
+- 
