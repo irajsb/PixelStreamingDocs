@@ -8,7 +8,7 @@ For more info you can contact us at nazzareno@myd3sign.com
 - [Overview](https://docs.pixelsteam.net/overview)  
 - [ Start a base instance](https://docs.pixelsteam.net/firstinstance)  
 - [Instance Manager](https://docs.pixelsteam.net/instancemanager)
-- [Communitcate](https://docs.pixelsteam.net/communicate)
+- [Communicate](https://docs.pixelsteam.net/communicate)
 - [Plugin](https://docs.pixelsteam.net/pixelmanager)
 
 
