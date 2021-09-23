@@ -1,4 +1,4 @@
-First step to make a pixel streaming solution is to make a base image that we can launch instances from.  
+### First step to make a pixel streaming solution is to make a base image that we can launch instances from.  
 
 ## Start an instance 
 - Login to your aws account.
