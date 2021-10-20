@@ -17,7 +17,7 @@
 
 - Add storage : storage cannot be less than base AMI size which in this case is 30GB , storage type has a major impact on instance startup time. some storage types have fees as high as 2000$/month so be sure to calculate your price estimate by using aws calculator (googleit) . I'm just changing gp2 to gp3 here for this example.
 
-- You can choose to add tags now or do it later (I recommend using key `Name` and value `ProjectBaseImage` for clarification .
+- You can choose to add tags now or do it later (I recommend using key `Name` and value `ProjectBaseImage` for clarification Also all instances need `Managed` `Managed` tag) .
 
 - You need to open some ports in pixel streaming security group. this is the config that we currently have:  
 ![](https://docs.pixelsteam.net/Images/Ports.jpg)
