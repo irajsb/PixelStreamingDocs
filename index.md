@@ -10,5 +10,5 @@ For more info you can contact us at nazzareno@myd3sign.com
 - [Instance Manager](https://docs.pixelsteam.net/instancemanager)
 - [Communicate](https://docs.pixelsteam.net/communicate)
 - [Plugin](https://docs.pixelsteam.net/pixelmanager)
-
+- [Mobile](https://docs.pixelsteam.net/mobile)
 
