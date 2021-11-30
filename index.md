@@ -10,6 +10,10 @@ For more info you can contact us at nazzareno@myd3sign.com
 - [Instance Manager](https://docs.pixelsteam.net/instancemanager)
 - [Communicate](https://docs.pixelsteam.net/communicate)
 - [Plugin](https://docs.pixelsteam.net/pixelmanager)
+<<<<<<< HEAD
 - [Updater](https://docs.pixelsteam.net/updater)
 
+=======
+- [Mobile](https://docs.pixelsteam.net/mobile)
+>>>>>>> e3aa762ace4b8cf80819f46a3516d6093dd07cef
 
